@@ -57,13 +57,13 @@ I build useful things with Laravel and Vue.js. I care about clean code, open sou
 
 ## GitHub activity
 
-![GitHub stats for plutuss](https://github-readme-stats.vercel.app/api?username=plutuss&theme=vue-dark&hide_border=true&count_private=false)
+![GitHub stats for plutuss](./profile/stats.svg)
 ![GitHub contribution streak for plutuss](https://nirzak-streak-stats.vercel.app/?user=plutuss&theme=vue-dark&hide_border=false)
-![Most used languages on GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=plutuss&theme=vue-dark&hide_border=true&layout=compact)
+![Most used languages on GitHub](./profile/top-langs.svg)
 
 ## 🏆 GitHub trophies
 
-![GitHub trophies for plutuss](https://github-profile-trophy.vercel.app/?username=plutuss&theme=vue-dark&no-frame=false&no-bg=true&margin-w=4)
+![GitHub trophies for plutuss](https://github-profile-trophy-orcin-eta.vercel.app/?username=plutuss&theme=vue-dark&no-frame=false&no-bg=true&margin-w=4)
 
 ## ✍️ Random dev quote
 
