@@ -12,11 +12,7 @@ I build useful things with Laravel and Vue.js. I care about clean code, open sou
 - [Laravel GeoNames API](https://github.com/plutuss/geo-laravel) — access geographic data from the GeoNames API.
 - [HERE Coding Geo](https://github.com/plutuss/here-coding-geo) — geocoding, reverse geocoding and routing with HERE Maps.
 - [GIF Creator Laravel](https://github.com/plutuss/gif-creator) — create animated GIFs in Laravel.
-- [Route Attribute Laravel](https://github.com/plutuss/route-attribute-laravel) — register Laravel routes using PHP attributes.
-- [Static Text Laravel](https://github.com/plutuss/static-text) — manage static page text from an admin panel.
 - [Sortable Laravel](https://github.com/plutuss/sortable-laravel) — sorting support for Laravel.
-- [Stripe Laravel](https://github.com/plutuss/stripe-laravel) — Stripe integration for Laravel 10.
-- [Laravel ZipPlus](https://github.com/plutuss/laravel-zipplus) — streaming and offline ZIP creation for Laravel.
 
 ## Tech stack
 
